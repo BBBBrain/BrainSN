@@ -1,2 +1,2 @@
-# BrainSN
+# Framework
 ![Framework](framework.png)
