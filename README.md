@@ -12,3 +12,5 @@ was followed by linear detrending, filtering (0.01 ∼ 0.1HZ in resting-state da
 #### [HCP-Aging Resting](https://www.humanconnectome.org/study/hcp-lifespan-aging)
 #### [Narratives](https://fcon_1000.projects.nitrc.org/indi/retro/Narratives.html)
 #### [ABCD Resting](https://abcdstudy.org/)
+
+## Installation
