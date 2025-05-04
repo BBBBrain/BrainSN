@@ -15,7 +15,8 @@ was followed by linear detrending, filtering (0.01 ∼ 0.1HZ in resting-state da
 
 ## Installation
 #### Prerequisites
-Python 3.8 or higher \r
+Python 3.8 or higher  
+
 pip or conda for package management
 #### Steps
 1. Clone the repository:
