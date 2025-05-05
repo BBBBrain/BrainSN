@@ -20,14 +20,15 @@ Python 3.8 or higher
 pip or conda for package management
 #### Steps
 ##### 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/BBBBrain/BrainSN.git
    
    cd train
+```
 ##### 2. Install dependencies:
-   
+   ```bash
    pip install -r requirements.txt
-
+```
 ## Usage
 ### Training
 ##### To train the model:  
