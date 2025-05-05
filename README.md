@@ -42,6 +42,7 @@ sh scripts/train_BrainSN.sh
 python inference.py 
 ```
 ###### Edit inference.py  to adjust hyperparameters, pretrained model and dataset paths.
-
+### Downstream tasks tests
+In the downstream folder, there are training and testing codes for different downstream tasks. Please select according to different needs and modify the model and data file paths in the code according to the specific task.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
