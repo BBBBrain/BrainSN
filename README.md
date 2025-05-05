@@ -27,3 +27,7 @@ pip or conda for package management
 ##### 2. Install dependencies:
    
    pip install -r requirements.txt
+
+## Usage
+### Training
+To train the model:
