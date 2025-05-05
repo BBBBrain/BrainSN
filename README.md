@@ -30,4 +30,6 @@ pip or conda for package management
 
 ## Usage
 ### Training
-To train the model:
+To train the model:  
+sh scripts/train_BrainSN.sh
+#### Edit train_BrainSN.sh to adjust hyperparameters, dataset paths, or other settings.
