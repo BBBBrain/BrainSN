@@ -39,5 +39,6 @@ sh scripts/train_BrainSN.sh
 ### Inference
 ##### To run inference with a pre-trained model:
 ```bash
-python inference.py --model-path path/to/model --input path/to/input
+python inference.py 
 ```
+###### Edit inference.py  to adjust hyperparameters, pretrained model and dataset paths.
