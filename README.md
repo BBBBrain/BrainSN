@@ -42,3 +42,6 @@ sh scripts/train_BrainSN.sh
 python inference.py 
 ```
 ###### Edit inference.py  to adjust hyperparameters, pretrained model and dataset paths.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
