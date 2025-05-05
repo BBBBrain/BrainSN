@@ -48,5 +48,7 @@ In the downstream folder, there are training and testing codes for different dow
 The pre-trained model weight file is too large to upload and is being uploaded through other channels. Please refer to the Pretrained foder for more details.
 ### Analysis
 For visulization of latent embedding, please use tsne.py under the analysis folder.
+### Contact
+For questions or support, open an issue.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
