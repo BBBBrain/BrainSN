@@ -33,8 +33,10 @@ pip or conda for package management
 ##### To train the model:  
 ```bash
 sh scripts/train_BrainSN.sh
-
+```
 ###### Edit train_BrainSN.sh to adjust hyperparameters, dataset paths, or other settings.
 ### Inference
 ##### To run inference with a pre-trained model:
-$ echo python inference.py --model-path path/to/model --input path/to/input
+```bash
+python inference.py --model-path path/to/model --input path/to/input
+```
