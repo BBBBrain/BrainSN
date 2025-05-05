@@ -44,5 +44,7 @@ python inference.py
 ###### Edit inference.py  to adjust hyperparameters, pretrained model and dataset paths.
 ### Downstream tasks tests
 In the downstream folder, there are training and testing codes for different downstream tasks. Please select according to different needs and modify the model and data file paths in the code according to the specific task.
+### Pretrained model 
+The pre-trained model weight file is too large to upload and is being uploaded through other channels. Please refer to the Pretrained foder for more details.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
